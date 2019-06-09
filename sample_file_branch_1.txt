@@ -1,0 +1,7 @@
+Hi Reader 
+Greetings of the day 
+
+This is sample file for checking in week_1 branch.
+
+Regards
+Garvit Anand
